@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Hagrid Trial';
+    src: url('HagridTrial-Regular.woff2') format('woff2'),
+        url('HagridTrial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('SourceSansPro-Bold.woff2') format('woff2'),
+        url('SourceSansPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hagrid Text Trial';
+    src: url('HagridTextTrial-Extrabold.woff2') format('woff2'),
+        url('HagridTextTrial-Extrabold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('SourceSansPro-Regular.woff2') format('woff2'),
+        url('SourceSansPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('SourceSansPro-Semibold.woff2') format('woff2'),
+        url('SourceSansPro-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
